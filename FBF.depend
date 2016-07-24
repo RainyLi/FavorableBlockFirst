@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1463233816 source:d:\fbf\common.cpp
+	"common.h"
+
+1463233804 d:\fbf\common.h
+	<cstdio>
+	<stdio.h>
+	<cstdlib>
+	"variables.h"
+
+1463232098 d:\fbf\variables.h
+	<vector>
+	<set>
+
+1463713026 source:d:\fbf\erasurecodes.cpp
+	"erasureCodes.h"
+
+1463233726 d:\fbf\erasurecodes.h
+	"common.h"
+
+1468562814 source:d:\fbf\main.cpp
+	"solution.h"
+	"search.h"
+	"variables.h"
+	"erasureCodes.h"
+	"common.h"
+	<iostream>
+	<fstream>
+	<time.h>
+
+1463713038 d:\fbf\solution.h
+	<stdio.h>
+	"variables.h"
+	<vector>
+	<stdlib.h>
+
+1463056676 d:\fbf\search.h
+	<stdio.h>
+	<vector>
+	"variables.h"
+	"vertex.h"
+	"solution.h"
+
+1463059356 d:\fbf\vertex.h
+	<stdio.h>
+	<string>
+	"variables.h"
+	<stdlib.h>
+	<vector>
+	"solution.h"
+	<array>
+
+1468399832 source:d:\fbf\search.cpp
+	"search.h"
+
+1468399832 source:d:\fbf\solution.cpp
+	"solution.h"
+
+1463311914 source:d:\fbf\vertex.cpp
+	"vertex.h"
+
